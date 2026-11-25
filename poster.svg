@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="300" viewBox="0 0 520 300"
+     font-family="Helvetica, Arial, sans-serif">
+  <rect width="520" height="300" fill="#0b0e14"/>
+  <rect x="36" y="36" width="448" height="228" rx="10" fill="none" stroke="#2a3142" stroke-width="1"/>
+  <text x="260" y="155" text-anchor="middle" fill="#e6eaf0" font-size="52" font-weight="700" letter-spacing="0">draftlimbo</text>
+  <line x1="96" y1="178" x2="424" y2="178" stroke="#3a7bd5" stroke-width="1.5"/>
+  <text x="260" y="218" text-anchor="middle" fill="#9aa3b8" font-size="19">the typed messages you left abandoned in drafts, a place their fate is unclear.</text>
+  <text x="260" y="262" text-anchor="middle" fill="#6a7480" font-size="13">a make.fun bounty entry — invent a word we need</text>
+</svg>
