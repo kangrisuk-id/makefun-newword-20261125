@@ -1,4 +1,6 @@
-<p align="center"><img src="poster.svg" alt="draftlimbo — the typed messages you left abandoned in drafts, a place their fate is unclear" width="520"></p>
+# Invent a Word We Need: draftlimbo
+
+<p align="center"><img src="poster.svg" alt="the typed messages you left abandoned in drafts, where no one expects them to be found." width="520"></p>
 
 <p align="center">
 <a href="https://make.fun/badge/u-deranalabs-invent-a-word-we-need-17a020e0.svg"><img src="https://make.fun/badge/u-deranalabs-invent-a-word-we-need-17a020e0.svg" alt="make.fun competition badge"/></a>
