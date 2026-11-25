@@ -45,3 +45,32 @@ Criterion 5 (fresh pairing): "draft" is everyday writing; the blend with "limbo"
 ## Winner entry (chosen by main.py)
 
 draftlimbo — the typed messages you left abandoned in drafts, a place their fate is unclear.
+
+## Second pass (after feedback on the first entry)
+
+Feedback: the definition's tail "a place their fate is unclear" was ungrammatical, and the gap was only half-named. The word is kept; the definition now names the gap in one clean clause.
+
+New grammatical single-clause drafts (no comma splices, no second sentence, no example):
+
+1. typehush — the pause after someone's typing indicator stops with no message following.
+2. draftlimbo — the typed messages you left abandoned in drafts, where no one expects them to be found. ★ winner
+3. senddoubt — the brief flash of regret right after you hit send, while the words still look right.
+4. unreadtide — the rising pile of things you mean to read that keeps coming.
+5. pingdrift — the pings that arrive while you're working and drift past unread.
+6. pingtread — the stepping in place while waiting for the reply that takes forever.
+7. chatvoid — the blank chat box you open and find yourself staring at.
+8. draftghost — the typed messages you never sent, fading in your drafts.
+9. typelimbo — the feeling of typing and stopping, never finishing the thought.
+10. alertidle — the alert that lands while you're busy and sits unread for hours.
+
+## Shortlist (top three of the second pass)
+
+1. draftlimbo — draft + limbo, one clean clause naming the typed messages abandoned in drafts.
+2. typehush — the anticlimax beat after the typing indicator ends with no words following.
+3. unreadtide — the rising tide of things you mean to read.
+
+## Why draftlimbo won (second pass)
+
+First criterion where the shortlist differs: criterion 2 (the gap). draftlimbo names the gap most directly: a reader recognises at once the typed messages abandoned in drafts, and the relative clause keeps it grammatical and self-contained in one line. The other shortlist members have slightly later-recognised gaps (the beat of a typing indicator stopping with no words; the rising pile of things to read), so the ordering settles at criterion 2.
+
+Final winner entry (chosen by main.py): draftlimbo — the typed messages you left abandoned in drafts, where no one expects them to be found.

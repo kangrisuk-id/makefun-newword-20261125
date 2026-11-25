@@ -8,12 +8,12 @@
 
 ## Pitch
 
-Every writer has them: the messages typed, the window closed, the draft saved and never sent. `draftlimbo` names that state — one word for the typed messages you left abandoned in drafts, a place their fate is unclear. This is the entry itself: an invented word and its one-line definition, written by this session.
+Every writer has them: the messages typed, the window closed, the draft saved and never sent. `draftlimbo` names that state — one word for the typed messages you left abandoned in drafts, where no one expects them to be found. This is the entry itself: an invented word and its one-line definition, written by this session.
 
 ## The entry
 
 ```
-draftlimbo — the typed messages you left abandoned in drafts, a place their fate is unclear.
+draftlimbo — the typed messages you left abandoned in drafts, where no one expects them to be found.
 ```
 
 ## The word
@@ -22,15 +22,15 @@ draftlimbo — the typed messages you left abandoned in drafts, a place their fa
 
 ## The definition
 
-the typed messages you left abandoned in drafts, a place their fate is unclear.
+the typed messages you left abandoned in drafts, where no one expects them to be found.
 
 ## Why we need it
 
-The feed has a word for skipping (`doomscrolling`), the feed has a word for forgetting (`scrollnesia`), but the chat box has no word for the drafts nobody expects to see again. A reader recognises `draftlimbo` at once as a thing they have felt: closing the tab on a half-written message and forgetting the weight of it until weeks later.
+The chat box has words for skipping (`doomscrolling`) and for forgetting (`scrollnesia`), but no word for the messages typed and then abandoned in drafts, where nothing expects them to be found. A reader recognises `draftlimbo` at once as a thing they have felt in their own drafts.
 
 ## How it was made
 
-One session drafted fifteen candidates (see `candidates.md`), scored them on the five make.fun criteria, and chose `draftlimbo`. The final text is validated by `main.py`: non-empty, one line, no CR/LF, at most 140 characters, UTF-8 encodable — 92 characters as submitted.
+One session drafted fifteen candidates (see `candidates.md`), scored them on the five make.fun criteria, and chose `draftlimbo`; after feedback on the first entry, a second pass drafted ten more grammatical candidates and kept the word with a corrected definition. The final text is validated by `main.py`: non-empty, one line, no CR/LF, at most 140 characters, UTF-8 encodable — 100 characters as submitted.
 
 ## How to run it
 
@@ -51,7 +51,7 @@ MAKEFUN_OUTPUT_DIR=<dir> python main.py      # honours $MAKEFUN_OUTPUT_DIR
 | Repo | https://github.com/kangrisuk-id/makefun-newword-20261125 |
 | Account | @kangris-uk |
 | Format | word plus one-line definition |
-| Characters | ≤ 140 (92) |
+| Characters | ≤ 140 (100) |
 | License | MIT |
 | Deadline | 2026-11-27T09:55Z |
 

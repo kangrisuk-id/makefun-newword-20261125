@@ -13,7 +13,7 @@ from pathlib import Path
 
 # The entry: the invented word plus its one-line definition.
 WORD = "draftlimbo"
-DEFINITION = "the typed messages you left abandoned in drafts, a place their fate is unclear."
+DEFINITION = "the typed messages you left abandoned in drafts, where no one expects them to be found."
 
 ENTRY = f"{WORD} — {DEFINITION}"
 
